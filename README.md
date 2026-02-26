@@ -28,6 +28,7 @@ A HUD combiner reflects display light at specific wavelengths while transmitting
 ## Document
 
 📄 **[43-I_HUD_Combiner_Coatings_Formatted.docx](43-I_HUD_Combiner_Coatings_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-I_HUD_Combiner_Coatings_Formatted.pdf](43-I_HUD_Combiner_Coatings_Formatted.pdf)** — PDF export
 
 ## Author
 
